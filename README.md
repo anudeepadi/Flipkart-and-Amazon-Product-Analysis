@@ -1,5 +1,5 @@
-# Shack Labs Assignment
-This Repo contains the solution to the assignment for position of Data Science Internship at Shack Labs
+# Flipkart and Amazon Products Dataset Analysis
+# Done Exploratory data analysis, Model Building and Products Comparision from the Dataset.
 
 Required Packages
 1. Numpy
